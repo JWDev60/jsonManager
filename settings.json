@@ -1,0 +1,28 @@
+{
+    "files": [
+        {
+            "name": "TikTok",
+            "file": "TikTok.json"
+        },
+        {
+            "name": "YouTube",
+            "file": "YouTube.json"
+        },
+        {
+            "name": "Roblox",
+            "file": "Roblox.json"
+        },
+        {
+            "name": "Discord",
+            "file": "Discord.json"
+        },
+        {
+            "name": "Email",
+            "file": "Email.json"
+        },
+        {
+            "name": "Telegram",
+            "file": "Telegram.json"
+        }
+    ]
+}
