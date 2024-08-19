@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "Discord Token 1",
+        "Amount": "1",
+        "Link/Notes": "SecretToken1",
+        "Rank": "SF_Services-ACC"
+    },
+    {
+        "Name": "Discord Phone Token 1",
+        "Amount": "1",
+        "Link/Notes": "PhoneSecretToken1",
+        "Rank": "Partners"
+    }
+]
