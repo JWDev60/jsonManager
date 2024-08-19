@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "YouTube Subscriber Campaign 1",
+        "Amount": "2000",
+        "Link/Notes": "http://example.com/youtube1",
+        "Rank": "Partners"
+    },
+    {
+        "Name": "YouTube Like Campaign 1",
+        "Amount": "1500",
+        "Link/Notes": "http://example.com/youtube2",
+        "Rank": "SF_Services-ACC"
+    }
+]
