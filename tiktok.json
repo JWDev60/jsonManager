@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "TikTok View Campaign 1",
+        "Amount": "10000",
+        "Link/Notes": "http://example.com/tiktok1",
+        "Rank": "VIP"
+    },
+    {
+        "Name": "TikTok Like Campaign 1",
+        "Amount": "5000",
+        "Link/Notes": "http://example.com/tiktok2",
+        "Rank": "SF_Services-TEAM"
+    }
+]
