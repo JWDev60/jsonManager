@@ -1,0 +1,7 @@
+{
+    "presetName": "Email Default Preset",
+    "Name": "Email Campaign",
+    "Amount": "250",
+    "Link/Notes": "http://example.com/email",
+    "Rank": "Standard"
+}
